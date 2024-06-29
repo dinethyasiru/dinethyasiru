@@ -12,7 +12,7 @@
 
 - 👯 I’m currently reading **BSc (Hons) Computer Science in Software Engineering (TOP UP) – Kingston University**
 
-- 💬 Ask me about **react, Angural**
+- 💬 Ask me about **React, Angular**
 
 - 📫 How to reach me **dinethyasirudesl@gmail.com**
 
