@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/dineth_yasirun" target="blank"><img src="https://img.shields.io/twitter/follow/dineth_yasirun?logo=twitter&style=for-the-badge" alt="dineth_yasirun" /></a> </p>
 
-- 🔭 I’m currently working on **Devzec Technologies**
+- 🔭 I’m currently working on **Dineth Prints & Solutions**
 
 - 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,Angular & C++**
 
